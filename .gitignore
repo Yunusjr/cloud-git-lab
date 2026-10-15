@@ -1,4 +1,4 @@
 .env
 *.log
 temp/
-secret.txt 
+secret.txt tracked-text.txt
